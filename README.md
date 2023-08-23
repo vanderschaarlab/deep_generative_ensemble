@@ -11,7 +11,6 @@ Create environment and install packages:
 ```bash
 $ conda create -n synthetic_errors python=3.8
 $ conda activate synthetic_errors
-$ pip install -r requirements.txt
 $ pip install .
 ```
 This code uses the generative modelling library of Synthcity (https://github.com/vanderschaarlab/synthcity)
